@@ -4,4 +4,4 @@
 
 this script is used to otomatically convert every file in a folder that use .dta as an extention and convert them into .csv format
 
-The only input that you need is your **folder path** that contains all of your .dta files that you want to convert
+The only input that you need is your **folder path** which contains all of your .dta files that you want to convert
