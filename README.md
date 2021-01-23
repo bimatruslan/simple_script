@@ -1,7 +1,7 @@
-# This Repository contains simple python script that I have made to help me when I was in college
+# This Repository contains simple python script that I have made when I was in college
 
 ## 1. **converter.py**
-
+A converter I made to help me convert some data that I used on my undergraduate thesis.
 this script is used to otomatically convert every file in a folder that use .dta as an extention and convert them into .csv format
 
 The only input that you need is your **folder path** which contains all of your .dta files that you want to convert
